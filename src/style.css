@@ -1,0 +1,5 @@
+#tab-menu{
+    display:flex;
+    gap:20px;
+    list-style-type: none;
+}
